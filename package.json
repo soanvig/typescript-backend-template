@@ -3,10 +3,10 @@
  "version": "1.0.0",
  "main": "build/index.js",
  "repository": "git@github.com:soanvig/typescript-backend-template.git",
- "author": "Mateusz Koteja <mateusz.koteja@leocode.com>",
+ "author": "Mateusz Koteja <soanvig@gmail.com>",
  "scripts": {
   "build": "yarn tsc",
-  "run": "ts-node ./src/index.ts",
+  "start": "ts-node ./src/index.ts",
   "test": "ava"
  },
  "devDependencies": {
